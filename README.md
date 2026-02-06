@@ -1,6 +1,6 @@
 ### Paper Overview
 
-This repository accompanies the paper *SoK: Hybrid Machine Learning and Explainable AI for HTTP/Application-Layer DDoS Detection
+This repository accompanies the papers *SoK: Hybrid Machine Learning and Explainable AI for HTTP/Application-Layer DDoS Detection
 and 
 
 
